@@ -1,0 +1,10 @@
+FastAPI
+Uvicorn
+SQLAlchemy
+passlib
+python-jwt
+pydantic
+aiofiles
+databases
+asyncpg
+uvicorn[standard]
